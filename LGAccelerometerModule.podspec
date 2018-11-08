@@ -1,4 +1,4 @@
-Pod::Spec.new do |s|
+Pod::Spec.new do |spec|
 
   spec.name         = "LGAccelerometerModule"
   spec.version      = "0.0.1"
