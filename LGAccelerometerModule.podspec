@@ -1,16 +1,16 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "LGAccelerometerModule"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.3"
   spec.summary      = "加速度计组件."
 
   spec.description  = <<-DESC
-  获取加速度
+  获取设备加速度
                    DESC
 
   spec.homepage     = "https://github.com/applekwork/LGAccelerometerModule.git"
 
-  spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
 
   spec.author             = { "LG" => "applekwork@163.com" }
   # Or just: spec.author    = "LG"
